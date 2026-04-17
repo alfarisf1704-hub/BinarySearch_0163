@@ -70,4 +70,3 @@ void display()
 
 void binarySearch()
 {
-}
