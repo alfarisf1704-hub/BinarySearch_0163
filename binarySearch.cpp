@@ -2,10 +2,14 @@
 using namespace std;
 
 int element[10];
-int panjang;
+int nPanjang;
 int x;
 
 void input()
 {
-    while
+    while (true)
+    {
+        cout << "Masukkan banyaknya elemen pada array (maksimal 10) : ";
+        cin >> nPanjang;
+    }
 }
